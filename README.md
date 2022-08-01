@@ -1,4 +1,4 @@
-# App-com-hookss
+# App-com-hooks
 
 Projeto feito com react-native que utiliza hooks, com tutorial disponível na Alura. 
 
