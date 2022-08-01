@@ -1,39 +1,29 @@
-![Thumbnails GitHub](https://user-images.githubusercontent.com/9091491/131161965-2c17a8ae-b7c2-49d4-b072-f636cb989a18.png)
+# App-com-hookss
 
-# Lista de Produtores na Home do Orgs
+Projeto feito com react-native que utiliza hooks, com tutorial disponível na Alura. 
 
-Projeto do curso de React Native: Utilizando e criando Hooks na Alura.
+<h3>Projeto final:</h3> 
 
-## 🔨 Funcionalidades do projeto
+![Capturar](https://user-images.githubusercontent.com/80695387/182241753-cecd76d1-2be3-4100-9930-53bc3ab6cfd2.PNG) 
 
-Neste projeto iremos fazer a tela Home do e-commerce de produtos naturais Orgs. Nessa tela listaremos os produtores de forma estática.
+<h3>O que são hooks:</h3> 
 
-<img src="https://user-images.githubusercontent.com/9091491/131163034-18cc72ba-8405-4676-a755-a6280d505fd1.gif" width="300" />
+São funções que permitem usar o estado e os métodos do ciclo de vida de um componente de classe em um componente funcional. Usando Hooks, é possível introduzir estado local em um componente funcional, assim como gerenciar seu ciclo de vida.  Hooks nos permite escrever aplicativos no React ou React Native com componentes funcionais. Para fazer isso, o React fornece alguns Hooks pré-definidos como o useState e o useEffect, os quais foram utilizados no projeto. 
 
-## ✔️ Técnicas e tecnologias utilizadas
+<h1> ✔️Técnicas e tecnologias utilizadas </h1> 
 
-- `Utilizar React Native CLI`
-- `Utilizar Emulador Android`
-- `Class Component`: Entender que existe outra forma de declarar componentes
-- `Ciclos de Vida`: Identificar quando a tela foi carregada
-- `Estados`: Salvar informações voláteis no aplicativo
-- `Hooks`: Utilizando ciclo de vida e estados em componentes de função
-  - Hooks de React Native
-  - Hooks Customizados
+- Utilizar React Native CLI; 
 
-## 📁 Acesso ao projeto
+- Utilizar Emulador Android; 
 
-Você pode baixar diretamente o zip do projeto usando os links abaixo:
-- [Aula 1](https://github.com/alura-cursos/react-native-utilizando-e-criando-hooks/archive/refs/heads/Aula1.zip)
-- [Aula 2](https://github.com/alura-cursos/react-native-utilizando-e-criando-hooks/archive/refs/heads/Aula2.zip)
-- [Aula 3](https://github.com/alura-cursos/react-native-utilizando-e-criando-hooks/archive/refs/heads/Aula3.zip)
-- [Aula 4 (Projeto Completo)](https://github.com/alura-cursos/react-native-utilizando-e-criando-hooks/archive/refs/heads/Aula4.zip)
-- [Desafio  (Projeto Completo com Desafio)](https://github.com/alura-cursos/react-native-utilizando-e-criando-hooks/archive/refs/heads/Desafio.zip)
+- Class Component: Entender que existe outra forma de declarar componentes; 
 
-## 🛠️ Abrir e rodar o projeto
+- Ciclos de Vida: Identificar quando a tela foi carregada; 
 
-Para instalar o React Native e o ambiente nativo na sua máquina siga os passos do [artigo de configuração de ambiente](https://www.alura.com.br/artigos/configurando-o-ambiente-react-native).
+- Estados: Salvar informações voláteis no aplicativo; 
 
-## 📚 Mais informações do curso
+- Hooks: Utilizando ciclo de vida e estados em componentes de função; 
 
-Aguardando link
+- Hooks de React Native;
+
+- Hooks Customizados.
